@@ -96,3 +96,5 @@ python main.py
 - Understanding Python functions and modules.
 - Working with built-in and custom modules.
 - Using loops and conditional statements
+
+- https://drive.google.com/file/d/19Nmw7gEL9gc5pDPGoMp5t7oaeMfXoCr9/view?usp=sharing
